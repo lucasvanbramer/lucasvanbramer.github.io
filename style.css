@@ -1,8 +1,17 @@
+body {
+  background-color: white;
+}
+
+.header {
+  position: absolute;
+  top: 5em;
+  left: 5em;
+}
+
 #name {
-  font-size: 5em;
-  color: red;
+  font-size: 2em;
 }
 
 body {
-  background-color: red;
+  font-family: 'Cutive Mono', monospace;
 }
